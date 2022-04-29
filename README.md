@@ -9,7 +9,7 @@
 
 
 
-* [Getting-Started-with-Google-Drive-Index](https://github.com/mrdlnet/G/wikis/Getting-Started-with-Google-Drive-Index)
+[Getting-Started-with-Google-Drive-Index](https://github.com/mrdlnet/G/wikis/Getting-Started-with-Google-Drive-Index)
 
 [![Screenshot](https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index/-/raw/master/images/themes/vapor.png)]
 
